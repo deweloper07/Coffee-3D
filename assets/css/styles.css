@@ -93,10 +93,10 @@ img{
     width: 70%;
     height: 100%;
     padding: 3.5rem 1.5rem 0;
-    background: rgba(255, 255, 255, .3);
     backdrop-filter: blur(10px);
     transition: .5;
   }
+
 }
 
 .nav__close{
@@ -104,7 +104,7 @@ img{
   top: .75rem;
   right: 1rem;
   font-size: 1.5rem;
-  cursor: pointer;
+  cursor: pointer;  
 }
 
 .nav__item{
